@@ -13,6 +13,6 @@ I work as a C# developer with angular, pleasure!
 📷 [instagram][instagram] **|** 
 🎥 [twitch][twitch]
 
-[linkedin]: https://linkedin.com/in/daniel-com%C3%A9rio-92b271150
+[linkedin]: https://www.linkedin.com/in/daniel-henrique-com%C3%A9rio-92b271150
 [instagram]: https://instagram.com/comeriodaniel
 [twitch]: https://twitch.tv/tensodemais
