@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Daniel 👋 I'm a Developer.
 
-<!--
-**danielcomerio/danielcomerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on my development personal and professional learning new interesting things!!
+- 🧠 I'm currently learning AI for my course completion work, about Git and GitHub to make better use of these tools, C# and Angular to enhance my performance in my job, all in that same order.
+- 💬 Ask me about Full Stack development, IA and for sure about Japanese anime!
+- ⚡ Fun fact: I can watch a whole anime in under a day!!! haha
 
-Here are some ideas to get you started:
+👔 [linkedin][linkedin] **|** 
+📷 [instagram][instagram] **|** 
+🎥 [twitch][twitch]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://linkedin.com/in/daniel-com%C3%A9rio-92b271150
+[instagram]: https://instagram.com/comeriodaniel
+[twitch]: https://twitch.tv/tensodemais
