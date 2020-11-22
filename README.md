@@ -1,7 +1,7 @@
 ## Hi, I'm Daniel 👋 I'm a Developer.
 
-Hello, my name is Daniel and I'm from Brazil.
-I'm graduated in Bachelor in Information Systems from IFES.
+Hello, my name is Daniel and I'm from Brazil.__
+I'm graduated in Bachelor in Information Systems from IFES.__
 I work as a C# developer with angular, pleasure!
 
 - 🔭 I'm currently working on my development personal and professional learning new interesting things!!  
