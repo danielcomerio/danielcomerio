@@ -1,13 +1,13 @@
 ## Hi, I'm Daniel 👋 I'm a Developer.
 
-Hello, my name is Daniel and I'm from Brazil. <br/>
-I'm graduated in Bachelor in Information Systems from IFES. <br/>
+I'm from Brazil.
+I'm graduated in Bachelor in Information Systems from IFES.
 I work as a C# developer with angular, pleasure!
 
-- 🔭 I'm currently working on my development personal and professional learning new interesting things!!  
-- 🧠 I'm currently learning AI for my course completion work, about Git and GitHub to make better use of these tools, C# and Angular to enhance my performance in my job, all in that same order.  
-- 💬 Ask me about Full Stack development, IA and for sure about Japanese anime!  
-- ⚡ Fun fact: I can watch a whole anime in under a day!!! haha  
+🔭 I'm currently working on my development personal and professional, learning new interesting things!!
+🧠 I'm currently learning about Git and GitHub to make better use of these tools, as well as C# and Angular to enhance performance in my job.
+💬 Ask me about Full Stack development, IA and for sure about Japanese anime!
+⚡ Fun fact: I can watch a whole anime in under a day!!! haha
 
 👔 [linkedin][linkedin] **|** 
 📷 [instagram][instagram] **|** 
