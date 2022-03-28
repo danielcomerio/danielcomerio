@@ -11,8 +11,8 @@ I work as a ML developer making researchs, pleasure!
 - 💬 Ask me about AI, Machine Learning, Neural Networks and for sure about Japanese anime!
 - ⚡ Fun fact: I can watch a whole anime in under a day!!! 😎 haha
 
-👔 [linkedin][linkedin] **|** 
-📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin] **|**
+📷 [instagram][instagram]
 
 [linkedin]: https://www.linkedin.com/in/daniel-henrique-com%C3%A9rio-92b271150
 [instagram]: https://instagram.com/comeriodaniel
